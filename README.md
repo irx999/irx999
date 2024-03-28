@@ -28,7 +28,7 @@
 <div align="center">
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,vscode,pr,twitter,flask" /><br>
+<img src="https://skillicons.dev/icons?i=ps,flask,git,obsidian" /><br>
 
 <!-- svg -->
 
