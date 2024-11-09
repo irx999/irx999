@@ -43,6 +43,6 @@
     
 </div>
 <div>
-    <a href="https://irx999.fun/"><img src="https://cdn.jsdelivr.net/gh/irx999/irx999/js.png" /></a>&emsp;
+    <a href="https://irx999.fun/"><img src="https://cdn.jsdelivr.net/gh/irx999/irx999/js.gif" /></a>&emsp;
     
 </div>
