@@ -42,3 +42,7 @@
     <a href="https://irx999.fun/"><img src="https://cdn.jsdelivr.net/gh/irx999/irx999/Python.png" /></a>&emsp;
     
 </div>
+<div>
+    <a href="https://irx999.fun/"><img src="https://cdn.jsdelivr.net/gh/irx999/irx999/js.png" /></a>&emsp;
+    
+</div>
