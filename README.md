@@ -35,7 +35,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/.webp">
 <div>
     <a href="https://irx999.fun/"><img src="https://cdn.jsdelivr.net/gh/irx999/irx999/Kimomimi.png" /></a>&emsp;
     
@@ -45,6 +44,6 @@
     
 </div>
 <div>
-    <a href="https://irx999.fun/"><img src="https://cdn.jsdelivr.net/gh/irx999/irx999/js.gif" /></a>&emsp;
+    <a href="https://irx999.fun/"><img src="https://cdn.jsdelivr.net/gh/irx999/irx999/yanami.gif" /></a>&emsp;
     
 </div>
