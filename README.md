@@ -1,28 +1,20 @@
-<div align="center">
 
-![玩原神这辈子有了](https://hoyocard.qhy04.com/gs/detail/10/78847338.png)
-![玩崩铁这辈子有了](https://hoyocard.qhy04.com/sr/detail/0-2/78847338.png)
-<div align="center">
+<p align="center"> <img src="https://hoyocard.qhy04.com/gs/detail/10/78847338.png",width = "100" ></img> <img src="https://hoyocard.qhy04.com/sr/detail/0-2/78847338.png",width = "100"></img></p>
 
-
-<h1 align="center"> 🍃 irx999 / 柠</h1>
+<h1 align="center"> 🍃 irx999 | 柠  🐍 </h1>
 <p align="center"> 仅仅是万千尘土中的一粒</p>
 
-
-
-
-<img src="https://skillicons.dev/icons?i=vscode,python,ps,git,obsidian,ubuntu,docker" /><br>
-
-<div align="left">
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,python,ps,git,obsidian,ubuntu,docker" /><br></p>
 
 
 
 > [!TIP]
-> 
 >  _None!_
->
+
+> [!NOTE]
 >  None!
->
+
+> [!WARNING]
 > **None!**
 
 # 🌟 特别功能 /  Special Features
@@ -35,6 +27,7 @@
 >>>>> 好
 
 # ✅  代办事项 / Todolist
+- [x] README写了
 - [ ] 先空着吧
 
 
