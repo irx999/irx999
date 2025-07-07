@@ -1,9 +1,9 @@
 
-<p align="center"> <img src="https://hoyocard.qhy04.com/gs/detail/10/78847338.png",width = "100" ></img> <img src="https://hoyocard.qhy04.com/sr/detail/0-2/78847338.png",width = "100"></img></p>
+<p align="center"> <img src="https://hoyocard.qhy04.com/gs/detail/10/78847338.png",width = "60" ></img> <img src="https://hoyocard.qhy04.com/sr/detail/0-2/78847338.png",width = "60"></img></p>
 
 <h1 align="center"> 🍃 irx999 | 柠  🐍 </h1>
 <p align="center"> 仅仅是万千尘土中的一粒</p>
-
+<h1 align="center">生命因何而沉睡 | 鸟儿为什么会飞</h1>
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,python,ps,git,obsidian,ubuntu,docker" /><br></p>
 
 
